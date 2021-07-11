@@ -3,4 +3,4 @@
 ### This is my first and very simple app - todo list build in react native for learning purpose  
 
 ## Screenshot :
-<img src="https://raw.githubusercontent.com/hbfawaz112/React-Native-Projects/main/React-Native-First-App-TodoList-main/ss1.jpg?token=AKRXMIWL3EDRRI34QSBKPN3A6RTQI" width="20%" height="30%">
+<img src="https://raw.githubusercontent.com/hbfawaz112/React-Native-Projects/main/React-Native-First-App-TodoList-main/ss1.jpg?token=AKRXMIWL3EDRRI34QSBKPN3A6RTQI" width="40%" height="50%">
